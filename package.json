@@ -6,6 +6,20 @@
   "scripts": {
     "start": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSquared0/Sprint-Challenge-Node-Express"
+  },
+  "keywords": [],
+  "author": "Pascale Pierre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PSquared0/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/PSquared0/Sprint-Challenge-Node-Express#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.4",
